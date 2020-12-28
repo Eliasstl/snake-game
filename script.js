@@ -18,6 +18,6 @@ function criarCobrinha(){
 		context.fillRect(snake[i].x, snake[i].y, box, box);
 	}
 }
-
+/*chama função*/
 criarBG();
 criarCobrinha();
