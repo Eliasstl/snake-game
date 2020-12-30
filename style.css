@@ -7,3 +7,20 @@ body{
 	flex-direction: colum;
 	color: rgb(44,139,44);
 }
+#pt{
+	background-color: black;
+	margin: 1px solid black;
+	height:300px;
+	width:100px;
+}
+#pt h1{
+	font-size: 20px;
+	text-align: center;
+	color: rgb(0,255,0);
+}
+#pontos{
+	font-size: 50px;
+	text-align: center;
+	color: rgb(0,255,0);
+}
+}
